@@ -14,6 +14,43 @@ Predicts stock prices for the next 30 days
 
 Visualizes the predicted vs actual stock prices
 
+
+🛠️ Technologies Used
+Python
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+TensorFlow / Keras
+
+
+📊 Workflow Steps
+The notebook is organized into the following sections:
+
+Import Libraries
+
+Download Stock Data
+
+Preprocess the Data
+
+Prepare Training & Testing Data
+
+Build the LSTM Model
+
+Train the Model
+
+Make a 30-Day Forecast
+
+Inverse Transform the Predictions
+
+Visualize the Predictions
+
+
 🔮 Results
 The final output includes a graph comparing actual stock prices and the LSTM model's forecast for the next 30 days.![Screenshot 2025-07-06 175801](https://github.com/user-attachments/assets/7da42309-4606-48d6-89de-419bedae3533)
 
